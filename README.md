@@ -2,7 +2,8 @@
 - 👀 I’m interested in transforming ideas into elegant code.
 - 🌱 I’m currently learning webdev
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ....
+- 📫 How to reach me
+     Email : contact.shahils24@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
